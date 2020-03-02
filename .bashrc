@@ -1,0 +1,5 @@
+alias v='vim -u ~/.config/vim/.vimrc'
+alias t='tmux'
+alias so='source'
+alias sn='v ~/.config/plugged/vim-snippets/snippets/'
+alias rc='v ~/.config/vim/.vimrc'
